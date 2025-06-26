@@ -2,9 +2,9 @@
 | ----------- | ------------ | -------------------------------------------------------- |
 | **Piranha** | Amazon Basin | Omnivorous; often misunderstood — not always aggressive. |
 
-|   |   |   |
-|---|---|---|
-|**Arapaima (Pirarucu)**|Amazon|One of the world’s largest freshwater fish; air-breather.|
+|                         |        |                                                           |
+| ----------------------- | ------ | --------------------------------------------------------- |
+| **Arapaima (Pirarucu)** | Amazon | One of the world’s largest freshwater fish; air-breather. |
 
 |   |   |   |
 |---|---|---|

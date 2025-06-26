@@ -103,19 +103,19 @@ Shift is the default key to run
 
 
 #### Grabbing
-See:[[Grabbing, Dropping and Throwing]]
+See:[[Grabbing_ Dropping and Throwing]]
 
 
 
 
 #### Dropping (Items)
-See:[[Grabbing, Dropping and Throwing]]
+See:[[Grabbing_ Dropping and Throwing]]
 
 
 
 
 #### Throwing
-See:[[Grabbing, Dropping and Throwing]]
+See:[[Grabbing_ Dropping and Throwing]]
 
 
 

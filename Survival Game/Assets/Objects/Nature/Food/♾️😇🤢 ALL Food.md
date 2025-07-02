@@ -40,26 +40,26 @@
 
 ## Seafood
 
-|         Name          | Healthy if Raw? | Healthy if Cooked? | Dishes |                                            Juices                                             | Notes (if raw) | Notes (if cooked) |
-| :-------------------: | :-------------: | :----------------: | :----: | :-------------------------------------------------------------------------------------------: | :------------: | ----------------- |
-|     [[🐟 Turtle]]     |  #🤢UnsafeRaw   |      #😇Safe       |        |                                          Salmonella                                           |                |                   |
-|      [[🐟 Tuna]]      |     #😇Safe     |      #😇Safe       |        |                                                                                               |                |                   |
-|   [[🐟 Mahi-Mahi]]    |     #😇Safe     |      #😇Safe       |        |                                                                                               |                |                   |
-|     [[🐟 Wahoo]]      |     #😇Safe     |      #😇Safe       |        |                                                                                               |                |                   |
-|   [[🐟 Swordfish]]    |     #😇Safe     |      #😇Safe       |        |                                                                                               |                |                   |
-|    [[🐟 Tilapia]]     |  #🤢UnsafeRaw   |      #😇Safe       |        |                                           parasite                                            |                |                   |
-|    [[🐟 Grouper]]     |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |        |                                     Ciguatera toxin risk                                      |                |                   |
-| Reef fish in general  |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |        |                                  ciguatera or bacterial risk                                  |                |                   |
-|   [[🐟 Barracuda]]    |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |        |                                     Ciguatera toxin risk                                      |                |                   |
-|    [[🐟 Wrasses]]     |  #🤢UnsafeRaw   |      #😇Safe       |        |                                           parasites                                           |                |                   |
-|  [[🐟 Triggerfish]]   |  #🤢UnsafeRaw   |      #😇Safe       |        |                                     parasites and toxins                                      |                |                   |
-|    [[🐟 Goatfish]]    |  #🤢UnsafeRaw   |      #😇Safe       |        |                                           parasites                                           |                |                   |
-|   [[🐟 Parrotfish]]   |  #🤢UnsafeRaw   |      #😇Safe       |        |                                           parasites                                           |                |                   |
-|   [[🐟 Pufferfish]]   |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |        |             May contain **tetrodotoxin**, which is fatal if not properly prepared             |                |                   |
-|    [[🐟 Boxfish]]     |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |        |                Excrete **ostracitoxin** from skin when stressed; toxic to eat                 |                |                   |
-|    [[🐟 Lionfish]]    |  #🤢UnsafeRaw   |      #😇Safe       |        | Spines are venomous; flesh can carry bacteria if raw               Make sure to remove spikes |                |                   |
-|    [[🐟 Skipjack]]    |     #😇Safe     |      #😇Safe       |        |                                                                                               |                |                   |
-| [[🐟 Yellowfin Tuna]] |     #😇Safe     |      #😇Safe       |        |                                                                                               |                |                   |
+|         Name          | Healthy if Raw? | Healthy if Cooked? | Dishes |                                                 Juices                                                  | Notes (if raw) | Notes (if cooked) |
+| :-------------------: | :-------------: | :----------------: | :----: | :-----------------------------------------------------------------------------------------------------: | :------------: | ----------------- |
+|     [[🐟 Turtle]]     |  #🤢UnsafeRaw   |      #😇Safe       |        |                                               Salmonella                                                |                |                   |
+|      [[🐟 Tuna]]      |     #😇Safe     |      #😇Safe       |        |                                                                                                         |                |                   |
+|   [[🐟 Mahi-Mahi]]    |     #😇Safe     |      #😇Safe       |        |                                                                                                         |                |                   |
+|     [[🐟 Wahoo]]      |     #😇Safe     |      #😇Safe       |        |                                                                                                         |                |                   |
+|   [[🐟 Swordfish]]    |     #😇Safe     |      #😇Safe       |        |                                                                                                         |                |                   |
+|    [[🐟 Tilapia]]     |  #🤢UnsafeRaw   |      #😇Safe       |        |                                                parasite                                                 |                |                   |
+|    [[🐟 Grouper]]     |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |        |                                          Ciguatera toxin risk                                           |                |                   |
+| Reef fish in general  |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |        |                                       ciguatera or bacterial risk                                       |                |                   |
+|   [[🐟 Barracuda]]    |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |        |                                          Ciguatera toxin risk                                           |                |                   |
+|    [[🐟 Wrasses]]     |  #🤢UnsafeRaw   |      #😇Safe       |        |                                           parasites Ciguatera                                           |                |                   |
+|  [[🐟 Triggerfish]]   |  #🤢UnsafeRaw   |      #😇Safe       |        |                                     Ciguatera parasites and toxins                                      |                |                   |
+|    [[🐟 Goatfish]]    |  #🤢UnsafeRaw   |      #😇Safe       |        |                                           parasites Ciguatera                                           |                |                   |
+|   [[🐟 Parrotfish]]   |  #🤢UnsafeRaw   |      #😇Safe       |        |                                           parasites Ciguatera                                           |                |                   |
+|   [[🐟 Pufferfish]]   |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |        |                  May contain **tetrodotoxin**, which is fatal if not properly prepared                  |                |                   |
+|    [[🐟 Boxfish]]     |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |        |               Excrete **ostracitoxin** from skin when stressed; toxic to eat - Ciguatera                |                |                   |
+|    [[🐟 Lionfish]]    |  #🤢UnsafeRaw   |      #😇Safe       |        | - Spines are venomous; flesh can carry bacteria if raw         - Make sure to remove spikes - Ciguatera |                |                   |
+|    [[🐟 Skipjack]]    |     #😇Safe     |      #😇Safe       |        |                                                                                                         |                |                   |
+| [[🐟 Yellowfin Tuna]] |     #😇Safe     |      #😇Safe       |        |                                                                                                         |                |                   |
 ## Birds
 
 |      Name      | Healthy if Raw? | Healthy if Cooked? | Dishes | Juices | Notes (if raw) | Notes (if cooked) |

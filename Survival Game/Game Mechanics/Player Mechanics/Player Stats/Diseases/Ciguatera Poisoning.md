@@ -1,4 +1,11 @@
 ###### List of foods
-- [[🐟 Grouper]]
-- [[🐟 Barracuda]]
-- 
+- High Risk:
+	- [[🐟 Grouper]]
+	- [[🐟 Barracuda]]
+	- [[🐟 Parrotfish]]
+	- [[🐟 Triggerfish]]
+	- [[🐟 Wrasses]]
+- Lower Risk:
+	- [[🐟 Goatfish]]
+	- [[🐟 Lionfish]]
+	- [[🐟 Boxfish]]

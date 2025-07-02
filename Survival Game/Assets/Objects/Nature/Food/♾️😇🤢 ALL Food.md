@@ -1,6 +1,10 @@
 
 #♾️ALL_LISTS
 
+
+
+## Fruits and Nuts
+
 |               Name               | Healthy if Raw? | Healthy if Cooked? |             Notes (if raw)              | Comes from:              |
 | :------------------------------: | :-------------: | :----------------: | :-------------------------------------: | ------------------------ |
 |          [[🍉 Banana]]           |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Banana Tree]]       |
@@ -24,6 +28,7 @@
 | [[🍉🥜 Breadfruit and Breadnut]] |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Breadfruit Tree]]   |
 
 
+## Insects
 
 |        Name         | Healthy if Raw? | Healthy if Cooked? | Dishes | Juices | Notes (if raw) | Notes (if cooked) |
 | :-----------------: | :-------------: | :----------------: | :----: | :----: | :------------: | ----------------- |
@@ -33,6 +38,7 @@
 |   [[🦋 Termites]]   |     #😇Safe     |      #😇Safe       |        |        |                |                   |
 |  [[🦋 Centipedes]]  |  #🤢UnsafeRaw   |      #😇Safe       |        | Venom  |                |                   |
 
+## Seafood
 
 |         Name          | Healthy if Raw? | Healthy if Cooked? | Dishes |                                            Juices                                             | Notes (if raw) | Notes (if cooked) |
 | :-------------------: | :-------------: | :----------------: | :----: | :-------------------------------------------------------------------------------------------: | :------------: | ----------------- |
@@ -54,6 +60,7 @@
 |    [[🐟 Lionfish]]    |  #🤢UnsafeRaw   |      #😇Safe       |        | Spines are venomous; flesh can carry bacteria if raw               Make sure to remove spikes |                |                   |
 |    [[🐟 Skipjack]]    |     #😇Safe     |      #😇Safe       |        |                                                                                               |                |                   |
 | [[🐟 Yellowfin Tuna]] |     #😇Safe     |      #😇Safe       |        |                                                                                               |                |                   |
+## Birds
 
 |      Name      | Healthy if Raw? | Healthy if Cooked? | Dishes | Juices | Notes (if raw) | Notes (if cooked) |
 | :------------: | :-------------: | :----------------: | :----: | :----: | :------------: | ----------------- |
@@ -62,11 +69,18 @@
 |  [🐦 Toucan]]  |  #🤢UnsafeRaw   |      #😇Safe       |        |        |   Salmonella   |                   |
 | [[🐦 Chicken]] |  #🤢UnsafeRaw   |      #😇Safe       |        |        |   Salmonella   |                   |
 
-|                   Name                   | Healthy if Raw? | Healthy if Cooked? |     Dishes     | Juices | Notes (if raw) | Notes (if cooked) |
-| :--------------------------------------: | :-------------: | :----------------: | :------------: | :----: | :------------: | ----------------- |
-|  [[🐗 Boar]]               #🤢UnsafeRaw  |     #😇Safe     |                    |   Salmonella   |        |                |                   |
-| [[🐗 Capybara]]             #🤢UnsafeRaw |     #😇Safe     |                    | 50% Salmonella |        |                |                   |
-|       [[🐗 Emerald Tree Boa]] SNA        |  #🤢UnsafeRaw   |      #😇Safe       |                |        |   parasites    |                   |
-|              [[🐗 Jaguar]]               |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |                |        |     Rabies     |                   |
-|            [[🐗 Orangutans]]             |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |                |        |    viruses     |                   |
-|               [[🐗 Sloth]]               |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |                |        |   parasites    |                   |
+## Meats
+
+|            Name             | Healthy if Raw? | Healthy if Cooked? |     Dishes     | Juices | Notes (if raw) | Notes (if cooked) |
+| :-------------------------: | :-------------: | :----------------: | :------------: | :----: | :------------: | ----------------- |
+|         [[🐗 Boar]]         |  #🤢UnsafeRaw   |      #😇Safe       |   Salmonella   |        |                |                   |
+|       [[🐗 Capybara]]       |  #🤢UnsafeRaw   |      #😇Safe       | 50% Salmonella |        |                |                   |
+| [[🐗 Emerald Tree Boa]] SNA |  #🤢UnsafeRaw   |      #😇Safe       |                |        |   parasites    |                   |
+|        [[🐗 Jaguar]]        |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |                |        |     Rabies     |                   |
+|      [[🐗 Orangutans]]      |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |                |        |    viruses     |                   |
+|        [[🐗 Sloth]]         |  #🤢UnsafeRaw   |  #🤢UnsafeCooked   |                |        |   parasites    |                   |
+## Drinks
+| Name  | Healthy if Raw? | Healthy if Cooked? | Dishes | Juices |        Notes (if raw)        |
+| :---: | :-------------: | :----------------: | :----: | :----: | :--------------------------: |
+| Water |  #🤢UnsafeRaw   |      #😇Safe       |        |        | Untreated can cause bacteria |
+|       |                 |                    |        |        |                              |

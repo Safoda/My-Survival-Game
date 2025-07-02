@@ -10,3 +10,10 @@ Often caused by rotten food
     
 
 > _Example: Giardia – ~5–7 days with metronidazole; tapeworms may need repeat treatments._
+
+
+
+ _Liver flukes_, _roundworms_, _tapeworms_ (e.g., _Diphyllobothrium_)
+        
+    - Common in **freshwater fish** and reef fish
+        

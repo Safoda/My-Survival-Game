@@ -1,21 +1,21 @@
 
 #♾️ALL_LISTS
 
-|               Name               | Healthy if Raw? | Healthy if Cooked? |             Notes (if raw)              | Comes from:           |
-| :------------------------------: | :-------------: | :----------------: | :-------------------------------------: | --------------------- |
-|          [[🍉 Banana]]           |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Banana Tree]]    |
-|          [[🍉 Coconut]]          |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Coconut Tree]]   |
-|        [[🍉 Grapefruit]]         |     #😇Safe     |      #😇Safe       |                                         |                       |
-|           [[🍉 Mango]]           |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Mango Tree]]     |
-|          [[🍉 Papaya]]           |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Papaya Tree]]    |
-|          [[🍉 Soursop]]          |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Soursop Tree]]   |
-|         [[🍉 Starfruit]]         |  #🤢UnsafeRaw   |      #😇Safe       |                                         | [[🌴 Starfruit Tree]] |
-|         [[🍉 Tamarind]]          |  #🤢UnsafeRaw   |      #😇Safe       |               75% healthy               | [[🌴 Tamarind Tree]]  |
-|                                  |                 |                    |                                         |                       |
-|                                  |                 |                    |                                         |                       |
-|                                  |                 |                    |                                         |                       |
-|    [[🥜🍉 Cashew Nut Fruit]]     |  #🤢UnsafeRaw   |      #😇Safe       |             Toxic when raw              | [[🌴 Cashew Tree 1]]       |
-|          [[🥜 Peanut]]           |  #🤢UnsafeRaw   |      #😇Safe       |                                         | [[🌿 Peanut Plant]]   |
+|               Name               | Healthy if Raw? | Healthy if Cooked? |             Notes (if raw)              | Comes from:              |
+| :------------------------------: | :-------------: | :----------------: | :-------------------------------------: | ------------------------ |
+|          [[🍉 Banana]]           |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Banana Tree]]       |
+|          [[🍉 Coconut]]          |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Coconut Tree]]      |
+|        [[🍉 Grapefruit]]         |     #😇Safe     |      #😇Safe       |                                         |                          |
+|           [[🍉 Mango]]           |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Mango Tree]]        |
+|          [[🍉 Papaya]]           |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Papaya Tree]]       |
+|          [[🍉 Soursop]]          |     #😇Safe     |      #😇Safe       |                                         | [[🌴 Soursop Tree]]      |
+|         [[🍉 Starfruit]]         |  #🤢UnsafeRaw   |      #😇Safe       |                                         | [[🌴 Starfruit Tree]]    |
+|         [[🍉 Tamarind]]          |  #🤢UnsafeRaw   |      #😇Safe       |               75% healthy               | [[🌴 Tamarind Tree]]     |
+|                                  |                 |                    |                                         |                          |
+|                                  |                 |                    |                                         |                          |
+|                                  |                 |                    |                                         |                          |
+|    [[🥜🍉 Cashew Nut Fruit]]     |  #🤢UnsafeRaw   |      #😇Safe       |             Toxic when raw              | [[🌴 Cashew Tree 1]]     |
+|          [[🥜 Peanut]]           |  #🤢UnsafeRaw   |      #😇Safe       |                                         | [[🌿 Peanut Plant]]      |
 |         [[🥜 Macadamia]]         |                 |                    |                                         | [[🌴 Macadamia Tree]]    |
 |         [[🥜 Pili Nut]]          |                 |                    |                                         | [[🌴 Pili Nut Tree]]     |
 |         [[🥜 Candlenut]]         |  #🤢UnsafeRaw   |      #😇Safe       | may cause vomiting or diarrhea when raw | [[🌴 Candlenut Tree]]    |

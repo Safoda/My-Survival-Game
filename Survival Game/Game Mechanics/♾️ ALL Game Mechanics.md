@@ -170,7 +170,7 @@ The game will have a storage system where the player is able to store objects. T
 ### Fatigue(Sleeping)
 [[Stamina]]
 ### Diseases
-[[Diseases]]
+[[♾️ All Diseases]]
 ### Temperature
 
 ### Weight

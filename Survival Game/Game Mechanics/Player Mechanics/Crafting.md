@@ -1,3 +1,18 @@
+
+# Ways to craft
+
+
+
+## Recipes 
+
+#####
+
+
+
+
+
+
+
 # From ChatGPT
 
 Creating a **crafting system in Godot 4** that allows you to **easily add new recipes** is best done using **Resources**, **dictionaries**, and optionally **JSON or external data**.
@@ -158,11 +173,3 @@ for recipe_dict in raw_recipes:
 ---
 
 Would you like a working example project or how to connect this to a UI for drag-and-drop crafting?
-
-# Ways to craft
-
-
-
-## Recipes 
-
-#####

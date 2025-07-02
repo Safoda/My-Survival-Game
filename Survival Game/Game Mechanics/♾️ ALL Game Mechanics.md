@@ -1,28 +1,30 @@
 #♾️ALL_LISTS 
 # Player Mechanics
-
 ## Player Controls
 
 
 In-Game
 
-|    Keybind ⌨️    |       Action🎬        |
-| :--------------: | :-------------------: |
-| LeftMouseButton  | Use item in Hand Slot |
-| RightMouseButton |    Grab (and Drop)    |
-|        W         |     Walk Forward      |
-|        A         |       Walk Left       |
-|        S         |     Walk Backward     |
-|        D         |      Walk Right       |
-|      Space       |         Jump          |
-|      Shift       |          Run          |
-|       Ctrl       |        Crouch         |
-|        E         |   Equip (Hand Slot)   |
-|        J         |        Journal        |
-|        C         |                       |
-|        M         |     Map (Journal)     |
-|        B         |    Build (Journal)    |
-|                  |                       |
+|    Keybind ⌨️    |         Action🎬          |
+| :--------------: | :-----------------------: |
+| LeftMouseButton  |   Use item in Hand Slot   |
+| RightMouseButton |      Grab (and Drop)      |
+|        W         |       Walk Forward        |
+|        A         |         Walk Left         |
+|        S         |       Walk Backward       |
+|        D         |        Walk Right         |
+|      Space       |           Jump            |
+|      Shift       |            Run            |
+|       Ctrl       |          Crouch           |
+|        E         |     Equip (Hand Slot)     |
+|        J         |          Journal          |
+|        C         | Character Stats (Journal) |
+|        M         |       Map (Journal)       |
+|        B         |      Build (Journal)      |
+|        F         |                           |
+|        R         |                           |
+
+
 
 
 
@@ -43,9 +45,9 @@ There are objects that the player will be able to grab and carry around. These o
 	- Logs
 	- Leaves
 	- Flowers
-- Containers:
-	- Baskets
-	- Wheelbarrow
+- Storage:
+	- Baskets (Food)
+	- Crates (Resources)
 - Tools:
 	- Weapons:
 		- Spears
@@ -59,8 +61,19 @@ There are objects that the player will be able to grab and carry around. These o
 		- Torches
 
 ###### List of objects player cannot grab
-- Buildings
+- Wheelbarrow
+- Buildings:
+	- Crafting Table
+	- Rattan Station
+	- Cooking Stations
+	- Water Filters
+	- Chests
+	- Shelters
+	- 
 - Living Animals
+- Trees
+- Boulders (Decoration)
+- Plants (Decoration)
 
 ##### Procedure:
 
@@ -92,7 +105,58 @@ Basically almostthe same as "objects", but Interactables cannot be thrown:
 - 
 
 
+
+
 ## Inventory System
+The way the inventory will work is through Hand Slot, and the Storage.
+
+### Hand Slot
+If the player presses "E" on an object that can be equipped, the object will go to the Hand Slot.
+In this Hand Slot, the player will be able to Use the Item in hand.
+
+###### List of objects for Hand Slot
+- Food:
+	- Fruits
+	- Meats
+	- Dead Animals
+	- Drinks
+- Resources:
+	- Stones
+	- Sticks
+	- Logs
+	- Leaves
+	- Flowers
+- Storage:
+	- Baskets (Food)
+	- Crates (Resources)
+- Tools:
+	- Weapons:
+		- Spears
+		- Knifes
+		- Bows
+		- Clubs
+	- Tools:
+		- Axes
+		- Fishing Rod
+		- Construction Hammer
+		- Torches
+### Storage
+The game will have a storage system where the player is able to store objects. There are containers that the player can grab, and others that he cannot grab (buildings).
+
+
+
+
+
+###### List of Storage Containers
+- Grabbable:
+	- Baskets (Food)
+	- Crates (Resources)
+- Non-Grabbable:
+	- Wheelbarrow (Baskets, Crates)
+	- Chest (Food and Resources)
+
+
+
 
 
 
@@ -112,11 +176,19 @@ Basically almostthe same as "objects", but Interactables cannot be thrown:
 ### Weight
 
 
+
+
+
+
 # Crafting
+
+
 
 
 # Building
 ### Shelter
+
+
 # Cooking
 ## Conserving food
 **Drying**
@@ -146,12 +218,18 @@ Basically almostthe same as "objects", but Interactables cannot be thrown:
     
 - Eggs (can last ~1 week in shade if unwashed
 
+
+
 # Taming 
+
+
 
 # Weather Mechanics
 
 #### ideas
 Hurricanes, flash floods, monsoon cycles
+
+
 
 
 # Journal
@@ -167,23 +245,11 @@ Learn by experience — e.g., first contact with poison plant adds to survival j
 
 
 
+
+
 # 🥲TO ORGANIZE (ideas):
 
-**### Baskets
 
-Baskets will allow the player to handle more items around the map:
-
-- Player will craft baskets to be able to transport items around
-- Baskets made out of rattan leaves
-
-### Wheelbarrow
-
-Wheelbarrow will allow the player to insert:
-
-- Baskets (from empty to full)
-- Logs
-- Sticks
-- Leaves
 
 
 
@@ -231,6 +297,8 @@ Uncover remains of past islanders, ancient ruins
 💀 **Permadeath / Legacy System** - If you die, your next survivor can find your old camp, journal, and gear
 
 👥 **Tribal Conflict or Factions** (if lore allows) - Defend against or ally with other humans — adds complexity
+
+
 
 
 

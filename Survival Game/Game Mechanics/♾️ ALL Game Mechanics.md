@@ -161,19 +161,18 @@ The game will have a storage system where the player is able to store objects. T
 
 
 ## Player Stats
-### Health
-[[Health]]
-### Hunger
-[[Hunger]]
-### Thirst
-[[Thirst]]
-### Fatigue(Sleeping)
-[[Stamina]]
-### Diseases
-[[♾️ All Diseases]]
-### Temperature
 
-### Weight
+### [[Health]]
+### [[Hunger]]
+
+### [[Thirst]]
+
+### [[Stamina]] / Fatigue(Sleeping)
+
+### [[♾️ All Diseases]]
+### [[Player Temperature]]
+
+### [[Weight]]
 
 
 

@@ -185,12 +185,9 @@ The game will have a storage system where the player is able to store objects. T
 
 
 
-List of all Crafting Recipes:
-
-
-
 
 # Building
+Fireplace
 ### Shelter
 
 

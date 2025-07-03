@@ -1,13 +1,26 @@
 
-# Ways to craft
+
+
+
+
+# Ways to craft in Crafting Table
+- When the player find the big Stone Slab, he will grab it and place it on top of Two Boulders.
+
+- As soon as the Stone Slab is placed, it will snap into place, and the Crafting Table is Activated.
+	- ![[Pasted image 20250703001758.png]]
+- The player will then Grab two items and drop them on top of the Stone Slab.
+	- ![[Pasted image 20250703001824.png]]
+- If the player presses "F" with the correct items on top of the Slab, the Crafting Scene will start
+
+	- ![[Pasted image 20250703001844.png]]
 
 
 
 ## Recipes 
 
-#####
 
-
+# How to craft Rattan
+- 
 
 
 

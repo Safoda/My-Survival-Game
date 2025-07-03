@@ -5,24 +5,25 @@
 
 In-Game
 
-|    Keybind ⌨️    |         Action🎬          |
-| :--------------: | :-----------------------: |
-| LeftMouseButton  |   Use item in Hand Slot   |
-| RightMouseButton |      Grab (and Drop)      |
-|        W         |       Walk Forward        |
-|        A         |         Walk Left         |
-|        S         |       Walk Backward       |
-|        D         |        Walk Right         |
-|      Space       |           Jump            |
-|      Shift       |            Run            |
-|       Ctrl       |          Crouch           |
-|        E         |     Equip (Hand Slot)     |
-|        J         |          Journal          |
-|        C         | Character Stats (Journal) |
-|        M         |       Map (Journal)       |
-|        B         |      Build (Journal)      |
-|        F         |                           |
-|        R         |                           |
+|    Keybind ⌨️    |                     Action🎬                      |
+| :--------------: | :-----------------------------------------------: |
+| LeftMouseButton  |               Use item in Hand Slot               |
+| RightMouseButton |                  Grab (and Drop)                  |
+|   ScrollWheel    |              Select Item from Basket              |
+|        W         |                   Walk Forward                    |
+|        A         |                     Walk Left                     |
+|        S         |                   Walk Backward                   |
+|        D         |                    Walk Right                     |
+|      Space       |                       Jump                        |
+|      Shift       |                        Run                        |
+|       Ctrl       |                      Crouch                       |
+|        E         | Equip (Hand Slot) / Drop Equiped Item / Swap Item |
+|        J         |                      Journal                      |
+|        C         |             Character Stats (Journal)             |
+|        M         |                   Map (Journal)                   |
+|        B         |                  Build (Journal)                  |
+|        F         |              Interact / Open a Menu               |
+|        R         |                                                   |
 
 
 
@@ -179,7 +180,12 @@ The game will have a storage system where the player is able to store objects. T
 
 
 
-# Crafting
+# Crafting [[Crafting]]
+
+
+
+
+List of all Crafting Recipes:
 
 
 
